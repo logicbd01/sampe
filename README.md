@@ -1,2 +1,2 @@
-# sampe
+# sample
 練習用
